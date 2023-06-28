@@ -11,3 +11,4 @@ Hardware used :
                     EL2024 (Beckhoff)
   -  Motor       :  Stepper Motor AS1010 (Beckhoff)
   -  Camera      :  Gigi Cam
+  -Description: 
